@@ -1,3 +1,2 @@
-# Hacktoborfest
-# Need to add stuff soon. 
-# Brainstorm stuff 
+# Cheat Sheets
+# Need to add more
